@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm Galina 
 
 🎂 I'm 26 years old
-
 🇧🇬 Based in Bulgaria
-
 💻 Passionate about Computer Technologies
+
 
 🚀 About Me
 
