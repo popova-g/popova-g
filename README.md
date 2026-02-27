@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Galina 
 
-<!--
-**popova-g/popova-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 I'm 26 years old
+🇧🇬 Based in Bulgaria
+💻 Passionate about Computer Technologies
 
-Here are some ideas to get you started:
+🚀 About Me
+I’m a technology enthusiast with a strong interest in Python programming, Cloud, and DevOps technologies.
+I’m currently making my first more serious steps in building expertise in these areas. I’m highly motivated, consistent, and committed to continuous learning. 
+I enjoy exploring new tools, improving my problem-solving skills, and trying to build more hands-on projects that strengthen my technical foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently Interested In:
+- 🐍 Python Development
+- ☁️ Cloud Technologies
+- 🐳 Containers & Kubernetes
+- 🔄 CI/CD Pipelines
+
+📂 What You’ll Find in My GitHub:
+- 🧩 Code from programming course practice tasks
+- ☸️ Kubernetes manifests
+- 🔁 My first attempts at composing CI/CD pipelines
+- 🛠 Small experiments and learning projects
+Each repository represents a step forward in my learning journey.
