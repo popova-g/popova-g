@@ -26,4 +26,5 @@ I enjoy exploring new tools, improving my problem-solving skills, and trying to 
 - ☸️ Kubernetes manifests
 - 🔁 My first attempts at composing CI/CD pipelines
 - 🛠 Small experiments and learning projects
+  
 Each repository represents a step forward in my learning journey.
